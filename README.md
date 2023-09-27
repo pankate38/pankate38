@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+  When I was 13 years old, I was fascinated by the idea of making things happen by typing in a few words on my screen. The moment I successfully printed out "Hello World!" in Pascal made me curious to learn more. What helped the most was my first CS class in middle school. My first CS teacher had a unique approach to teaching the class by incorporating a competitive element into in-class coding exercises. He gave us general prompts to work with, but it was a race against time. The first ten students who succeeded got a perfect score and extra credit for that assignment. This motivated me to keep aiming for that top spot. The best part of that experience for me was that once ten people were done, they got to assist other students who didn't get it in time. This learning experience really sparked my enjoyment for coding and especially problem-solving together with other fellow coders. 
+
+  Throughout my years of learning, I learned some of the basics of web-based languages like HTML, CSS, and JavaScript. The classes I'm taking are refining my knowledge and proficiency in Java, C++, and C.
+
 <!--
 **pankate38/pankate38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
