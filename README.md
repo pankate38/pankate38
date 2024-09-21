@@ -1,4 +1,4 @@
-Greetings! 👋
+Hi there! 👋
 
   My name is Kristina Therese Panlilio but since my first name is too long, I usually go by Kate. Let me briefly share my first experience with coding and how it shaped who I am today!
   
